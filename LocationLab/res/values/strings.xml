@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Place Badges</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_clear">Clear</string>
+    <string name="contentDescription">Location Info</string>
+    <string name="add_new_location">Add New Location</string>
+    <string name="lat_title">Latitude</string>
+    <string name="long_title">Longitude</string>
+    <string name="submit">Set Location</string>
+
+</resources>
